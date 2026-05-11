@@ -1,0 +1,17 @@
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Copilot agent skills
+.agents/
+skills-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if any tooling is added later)
+node_modules/
