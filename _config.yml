@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: Volaris Event Playbook
+description: Developer coaching playbook for a 4-day Volaris Group event — Azure, GitHub, GitHub Copilot
+plugins:
+  - jekyll-remote-theme
