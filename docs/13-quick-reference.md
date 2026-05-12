@@ -1,4 +1,8 @@
-# Quick Reference
+---
+title: "Quick Reference"
+layout: default
+nav_order: 15
+---
 
 > One-page cheat sheet for live event use. Keep this open at all times.
 

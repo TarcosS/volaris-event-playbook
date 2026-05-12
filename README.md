@@ -1,4 +1,10 @@
-# Volaris Event Playbook
+---
+title: "Home"
+layout: home
+permalink: /
+description: "Developer coaching playbook for a 4-day Volaris Group event"
+nav_order: 1
+---
 
 > A field-ready coaching playbook for a 4-day developer coaching event under Volaris Group.  
 > Built for two developer coaches guiding ~200 participants through Azure, GitHub, and GitHub Copilot.

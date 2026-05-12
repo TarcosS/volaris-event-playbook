@@ -1,4 +1,9 @@
-# Ticket Triage Session
+---
+title: "Ticket Triage"
+layout: default
+parent: "Sessions"
+nav_order: 3
+---
 
 > Session guide for Day 4 — converting audit findings into actionable, prioritized GitHub issues.
 

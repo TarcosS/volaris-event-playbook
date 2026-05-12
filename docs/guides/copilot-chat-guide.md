@@ -1,4 +1,9 @@
-# Copilot Chat Guide
+---
+title: "Copilot Chat"
+layout: default
+parent: "Tool Guides"
+nav_order: 1
+---
 
 > Step-by-step guide for coaches: how to use and teach GitHub Copilot Chat during the event.
 

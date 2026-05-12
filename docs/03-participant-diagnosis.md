@@ -1,4 +1,8 @@
-# Participant Diagnosis
+---
+title: "Participant Diagnosis"
+layout: default
+nav_order: 4
+---
 
 > How to assess participant skill level and select the right coaching path.
 

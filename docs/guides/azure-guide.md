@@ -1,4 +1,9 @@
-# Azure Guide
+---
+title: "Azure"
+layout: default
+parent: "Tool Guides"
+nav_order: 3
+---
 
 > Step-by-step Azure commands and procedures coaches will use and teach during the event.
 

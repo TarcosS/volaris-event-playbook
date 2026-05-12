@@ -1,4 +1,9 @@
-# SDK Guide
+---
+title: "SDK"
+layout: default
+parent: "Tool Guides"
+nav_order: 7
+---
 
 > How to read, understand, and audit Azure SDK code during the event.
 

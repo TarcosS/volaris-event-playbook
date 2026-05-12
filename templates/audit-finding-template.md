@@ -1,4 +1,9 @@
-# Audit Finding Template
+---
+title: "Audit Finding"
+layout: default
+parent: "Templates"
+nav_order: 1
+---
 
 > Use this template to document each audit finding. Copy and fill in the fields below.
 

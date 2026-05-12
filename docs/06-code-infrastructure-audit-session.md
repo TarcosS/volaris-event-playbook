@@ -1,4 +1,9 @@
-# Code and Infrastructure Audit Session
+---
+title: "Code & Infrastructure Audit"
+layout: default
+parent: "Sessions"
+nav_order: 2
+---
 
 > Session guide for Day 3 — finding vulnerabilities, risks, and improvement areas in a brownfield context.
 

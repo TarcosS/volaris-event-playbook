@@ -1,4 +1,9 @@
-# Skills Guide (Copilot Extensions & Skills)
+---
+title: "Skills"
+layout: default
+parent: "Tool Guides"
+nav_order: 6
+---
 
 > How to install, use, and create Copilot skills and extensions for enhanced capabilities during the event.
 

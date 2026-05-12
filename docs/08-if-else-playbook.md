@@ -1,4 +1,8 @@
-# If/Else Playbook
+---
+title: "If/Else Playbook"
+layout: default
+nav_order: 8
+---
 
 > The core operational decision guide for coaches. Use this document during live sessions to handle any situation quickly and consistently.
 

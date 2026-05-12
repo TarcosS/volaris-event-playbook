@@ -1,4 +1,9 @@
-# Participant Diagnosis Sheet
+---
+title: "Participant Diagnosis Sheet"
+layout: default
+parent: "Templates"
+nav_order: 4
+---
 
 > Use this template to record the diagnosis of each participant or group. Fill in during Day 1 and update on subsequent days.
 

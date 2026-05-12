@@ -1,4 +1,8 @@
-# Output Templates
+---
+title: "Output Templates"
+layout: default
+nav_order: 12
+---
 
 > All output templates collected in one place with descriptions and links.
 

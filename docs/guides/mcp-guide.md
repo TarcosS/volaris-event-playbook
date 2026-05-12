@@ -1,4 +1,9 @@
-# MCP Guide (Model Context Protocol)
+---
+title: "MCP"
+layout: default
+parent: "Tool Guides"
+nav_order: 5
+---
 
 > What MCP is, how to set it up, and how to use it during the event for enhanced code understanding and auditing.
 

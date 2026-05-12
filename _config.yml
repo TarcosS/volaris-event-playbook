@@ -1,5 +1,36 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+
 title: Volaris Event Playbook
 description: Developer coaching playbook for a 4-day Volaris Group event — Azure, GitHub, GitHub Copilot
+
+color_scheme: dark
+
+search_enabled: true
+search.heading_level: 3
+search.previews: 3
+search.preview_words_before: 5
+search.preview_words_after: 10
+
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "↑ Back to top"
+
+nav_enabled: true
+
+enable_copy_code_button: true
+
+footer_content: '<a href="https://github.com/TarcosS/volaris-event-playbook">Volaris Event Playbook</a> — Built for developer coaches by Kaan & KaanTurgut'
+
+# Aux links (top-right corner)
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/TarcosS/volaris-event-playbook"
+aux_links_new_tab: true
+
 plugins:
   - jekyll-remote-theme
+
+# Exclude non-content files
+exclude:
+  - skills-lock.json
+  - .gitignore

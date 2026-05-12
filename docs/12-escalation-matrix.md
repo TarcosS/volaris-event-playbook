@@ -1,4 +1,8 @@
-# Escalation Matrix
+---
+title: "Escalation Matrix"
+layout: default
+nav_order: 14
+---
 
 > When to handle an issue yourself and when to escalate. Use this during the event to make fast decisions about who should resolve what.
 

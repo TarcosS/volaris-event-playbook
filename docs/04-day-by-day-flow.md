@@ -1,4 +1,8 @@
-# Day-by-Day Flow
+---
+title: "Day-by-Day Flow"
+layout: default
+nav_order: 5
+---
 
 > Detailed schedule for all four days of the event, including coach checklists, participant outputs, decision branches, and risks.
 

@@ -1,4 +1,8 @@
-# Coach Runbook
+---
+title: "Coach Runbook"
+layout: default
+nav_order: 6
+---
 
 > Day-by-day interactive checklist for Kaan & KaanTurgut. Tick boxes as you go. Follow the links when you need detail.
 

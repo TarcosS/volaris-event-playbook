@@ -1,4 +1,9 @@
-# GitHub Issue Template
+---
+title: "GitHub Issue"
+layout: default
+parent: "Templates"
+nav_order: 2
+---
 
 > Use this template to create well-structured GitHub issues from audit findings. Copy and fill in the fields below.
 

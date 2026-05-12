@@ -1,4 +1,8 @@
-# Event Overview
+---
+title: "Event Overview"
+layout: default
+nav_order: 2
+---
 
 > Context and scope for the 4-day Volaris Group developer coaching event.
 

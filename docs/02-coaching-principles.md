@@ -1,4 +1,8 @@
-# Coaching Principles
+---
+title: "Coaching Principles"
+layout: default
+nav_order: 3
+---
 
 > The operating rules that guide every coaching decision during the event.
 

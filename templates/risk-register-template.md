@@ -1,4 +1,9 @@
-# Risk Register Template
+---
+title: "Risk Register"
+layout: default
+parent: "Templates"
+nav_order: 5
+---
 
 > Use this template to track multiple risks in a consolidated register. Primarily for advanced participants during the Code/Infrastructure Audit session.
 

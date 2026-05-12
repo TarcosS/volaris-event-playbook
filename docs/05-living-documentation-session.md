@@ -1,4 +1,9 @@
-# Living Documentation Session
+---
+title: "Living Documentation"
+layout: default
+parent: "Sessions"
+nav_order: 1
+---
 
 > Session guide for Day 2 — building and structuring knowledge for human and AI success.
 

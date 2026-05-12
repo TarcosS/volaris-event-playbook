@@ -1,4 +1,9 @@
-# Copilot Instructions Guide
+---
+title: "Copilot Instructions"
+layout: default
+parent: "Tool Guides"
+nav_order: 2
+---
 
 > How to create and manage project-level Copilot custom instructions and prompt files.
 

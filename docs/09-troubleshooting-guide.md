@@ -1,4 +1,8 @@
-# Troubleshooting Guide
+---
+title: "Troubleshooting"
+layout: default
+nav_order: 11
+---
 
 > Quick-reference guide for resolving common event blockers. Follow the resolution path, apply the 5-minute rule, and switch to fallback if unresolved.
 

@@ -1,4 +1,8 @@
-# Coach Scripts
+---
+title: "Coach Scripts"
+layout: default
+nav_order: 9
+---
 
 > Ready-to-use phrases for common coaching situations. Read these verbatim or adapt as needed.
 

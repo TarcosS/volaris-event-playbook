@@ -1,4 +1,9 @@
-# CLI Tools Guide
+---
+title: "CLI Tools"
+layout: default
+parent: "Tool Guides"
+nav_order: 4
+---
 
 > Essential command-line tools coaches will use and teach. Copy-paste ready commands.
 

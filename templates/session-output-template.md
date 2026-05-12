@@ -1,4 +1,9 @@
-# Session Output Template
+---
+title: "Session Output"
+layout: default
+parent: "Templates"
+nav_order: 3
+---
 
 > Use this template to record what happened during a session. One per session per participant or group.
 
