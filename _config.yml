@@ -3,7 +3,7 @@ remote_theme: just-the-docs/just-the-docs@v0.10.1
 title: Volaris Event Playbook
 description: Developer coaching playbook for a 4-day Volaris Group event — Azure, GitHub, GitHub Copilot
 
-color_scheme: dark
+color_scheme: light
 
 search_enabled: true
 search.heading_level: 3
