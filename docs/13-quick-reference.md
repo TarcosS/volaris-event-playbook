@@ -140,3 +140,19 @@ Every output must have:
 | GitHub org/license | No | Org admin |
 | Network/firewall | Try hotspot | Event tech team |
 | Security finding | Document only | Org admin (private) |
+
+---
+
+## Tool Guides Quick Access
+
+| Tool | Guide |
+|---|---|
+| Copilot Chat | 📖 [Copilot Chat Guide](guides/copilot-chat-guide.md) |
+| Copilot Instructions | 📖 [Copilot Instructions Guide](guides/copilot-instructions-guide.md) |
+| Azure (portal + CLI) | 📖 [Azure Guide](guides/azure-guide.md) |
+| CLI Tools (gh, az, git) | 📖 [CLI Tools Guide](guides/cli-tools-guide.md) |
+| MCP | 📖 [MCP Guide](guides/mcp-guide.md) |
+| Skills / Extensions | 📖 [Skills Guide](guides/skills-guide.md) |
+| Azure SDKs | 📖 [SDK Guide](guides/sdk-guide.md) |
+
+**Full interactive checklist:** 📖 [Coach Runbook](14-coach-runbook.md)

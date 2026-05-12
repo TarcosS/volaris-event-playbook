@@ -80,7 +80,16 @@ volaris-event-playbook/
 │   ├── 10-coach-scripts.md            ← Ready-to-use coaching phrases
 │   ├── 11-output-templates.md         ← Collected output templates
 │   ├── 12-escalation-matrix.md        ← When and how to escalate
-│   └── 13-quick-reference.md          ← One-page live reference card
+│   ├── 13-quick-reference.md          ← One-page live reference card
+│   ├── 14-coach-runbook.md            ← Interactive day-by-day checklist
+│   └── guides/
+│       ├── copilot-chat-guide.md      ← Copilot Chat usage and prompts
+│       ├── copilot-instructions-guide.md  ← Custom instructions and prompt files
+│       ├── azure-guide.md             ← Azure portal and CLI commands
+│       ├── cli-tools-guide.md         ← gh, az, git, runtime CLIs
+│       ├── mcp-guide.md              ← Model Context Protocol setup and usage
+│       ├── skills-guide.md            ← Copilot extensions and skills
+│       └── sdk-guide.md              ← Azure SDK audit patterns
 └── templates/
     ├── audit-finding-template.md      ← Template for audit findings
     ├── github-issue-template.md       ← Template for GitHub issues
@@ -94,10 +103,11 @@ volaris-event-playbook/
 **5 minutes before the event starts:**
 
 1. Open this repo on your laptop or tablet
-2. Open the [Quick Reference](docs/13-quick-reference.md) in a pinned tab
-3. Have the [If/Else Playbook](docs/08-if-else-playbook.md) ready for fast lookups
-4. Print or bookmark the [Participant Diagnosis](docs/03-participant-diagnosis.md) sheet
-5. Confirm you have access to the event's Azure tenant, GitHub organization, and Copilot licenses
+2. Open the [Coach Runbook](docs/14-coach-runbook.md) — your interactive to-do list for the entire event
+3. Open the [Quick Reference](docs/13-quick-reference.md) in a pinned tab
+4. Have the [If/Else Playbook](docs/08-if-else-playbook.md) ready for fast lookups
+5. Print or bookmark the [Participant Diagnosis](docs/03-participant-diagnosis.md) sheet
+6. Confirm you have access to the event's Azure tenant, GitHub organization, and Copilot licenses
 
 **First 15 minutes of each session:**
 
@@ -152,6 +162,16 @@ By the end of the 4-day event, each participant (or group) should have produced:
 | [Output Templates](docs/11-output-templates.md) | Templates for outputs |
 | [Escalation Matrix](docs/12-escalation-matrix.md) | When to escalate |
 | [Quick Reference](docs/13-quick-reference.md) | One-page cheat sheet |
+| [**Coach Runbook**](docs/14-coach-runbook.md) | **Interactive day-by-day checklist** |
+| **Tool Guides** | |
+| [Copilot Chat Guide](docs/guides/copilot-chat-guide.md) | Copilot Chat usage, prompts, troubleshooting |
+| [Copilot Instructions Guide](docs/guides/copilot-instructions-guide.md) | Custom instructions and prompt files |
+| [Azure Guide](docs/guides/azure-guide.md) | Azure portal and CLI commands |
+| [CLI Tools Guide](docs/guides/cli-tools-guide.md) | gh, az, git, runtime CLIs |
+| [MCP Guide](docs/guides/mcp-guide.md) | Model Context Protocol setup |
+| [Skills Guide](docs/guides/skills-guide.md) | Copilot extensions and skills |
+| [SDK Guide](docs/guides/sdk-guide.md) | Azure SDK audit patterns |
+| **Templates** | |
 | [Audit Finding Template](templates/audit-finding-template.md) | Template for documenting findings |
 | [GitHub Issue Template](templates/github-issue-template.md) | Template for creating issues |
 | [Session Output Template](templates/session-output-template.md) | Template for session records |

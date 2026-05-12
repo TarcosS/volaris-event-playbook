@@ -8,6 +8,8 @@
 
 Review the relevant day's section **before** the day starts. Use the coach checklist to confirm readiness, follow the if/else branches during the session, and verify the definition of done at the end of each day.
 
+**For an interactive, checkbox-driven version of this schedule, use the [Coach Runbook](14-coach-runbook.md).** The runbook links to tool guides for step-by-step Copilot, Azure, CLI, MCP, and Skills instructions.
+
 ---
 
 ## Day 1: Orientation, Setup, and Diagnosis
